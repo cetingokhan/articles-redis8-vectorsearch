@@ -6,16 +6,16 @@ services:
     #image: redis/redis-stack-server:latest
     container_name: redis-stack
     ports:
-      - "6379:6379"  # Redis port
-      - "8001:8001"  # Redis Insight UI port
+      - "6379:6379" 
     environment:
       REDIS_ARGS: "--requirepass redis-stack"
+      
   redis-insight:
       image: redis/redisinsight:latest
       container_name: redis-insight
       ports:
         - "5540:5540"         
-
+        
   mongo:
     image: mongo:6.0
     container_name: mongo
@@ -23,7 +23,7 @@ services:
       - "27017:27017"
     volumes:
       - mongo_data:/data/db
-
+      
   mongo-init:
     image: mongo:6.0
     container_name: mongo-init
