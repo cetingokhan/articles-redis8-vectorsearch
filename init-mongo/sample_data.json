@@ -1,0 +1,122 @@
+[
+  {
+    "faq_id": 1,
+    "question": "Matkap ucunu nasıl değiştirebilirim?",
+    "answer": "Matkabın mandrenini gevşeterek eski ucu çıkarın, yeni ucu yerleştirip sıkın.",
+    "category": "Matkaplar"
+  },
+  {
+    "faq_id": 2,
+    "question": "Hangi vida türü hangi yüzeyde kullanılmalı?",
+    "answer": "Ahşap için ahşap vidaları, metal için metal vidaları, beton için dübel ve beton vidalarını kullanın.",
+    "category": "Vidalar"
+  },
+  {
+    "faq_id": 3,
+    "question": "Elektrikli testere için hangi güvenlik önlemleri alınmalı?",
+    "answer": "Koruyucu gözlük ve eldiven takın, testereyi sabit bir yüzeyde kullanın ve elektrik bağlantılarını kontrol edin.",
+    "category": "Testereler"
+  },
+  {
+    "faq_id": 4,
+    "question": "Darbeli matkap ile normal matkap arasındaki fark nedir?",
+    "answer": "Darbeli matkap sert yüzeylerde delik açabilirken, normal matkap genellikle yumuşak yüzeylerde kullanılır.",
+    "category": "Matkaplar"
+  },
+  {
+    "faq_id": 5,
+    "question": "Tornavida uçları nasıl saklanmalı?",
+    "answer": "Manyetik bir şerit veya düzenleyici kutu içinde saklayarak kaybolmalarını önleyebilirsiniz.",
+    "category": "Tornavidalar"
+  },
+  {
+    "faq_id": 6,
+    "question": "Hangi boyuttaki çekiç hangi işlerde kullanılmalı?",
+    "answer": "Küçük çekiçler hassas işler için, büyük çekiçler ise sert yüzeylerde kırma işlemleri için uygundur.",
+    "category": "Çekiçler"
+  },
+  {
+    "faq_id": 7,
+    "question": "Eldiven seçerken nelere dikkat etmeliyim?",
+    "answer": "Malzemenin dayanıklılığı, konforu ve işin türüne uygunluğu önemlidir.",
+    "category": "Koruyucu Ekipmanlar"
+  },
+  {
+    "faq_id": 8,
+    "question": "Akülü matkabımın şarjı hızlı bitiyor, ne yapmalıyım?",
+    "answer": "Aküyü tam şarj edin, uygun hız ayarında kullanın ve kullanım sonrası Aküyü çıkarın.",
+    "category": "Matkaplar"
+  },
+  {
+    "faq_id": 9,
+    "question": "Spatula nasıl temizlenir?",
+    "answer": "Kullanımdan hemen sonra ılık su ve sabunla yıkayın, kurumasını bekleyin.",
+    "category": "Boya ve Tamir Araçları"
+  },
+  {
+    "faq_id": 10,
+    "question": "Vida gevşetmek için hangi araç kullanılmalı?",
+    "answer": "Genellikle tornavida veya somun anahtarı kullanılır. Sıkışmış vidalar için WD-40 gibi bir yağlayıcı deneyin.",
+    "category": "Vidalar"
+  },
+  {
+    "faq_id": 11,
+    "question": "Silikon tabancası nasıl kullanılır?",
+    "answer": "Tabancayı tüpe yerleştirin, tetikleyici ile silikon sıkın ve pürüzsüz bir yüzey elde etmek için spatula ile düzeltin.",
+    "category": "Yapıştırıcılar"
+  },
+  {
+    "faq_id": 12,
+    "question": "Su terazisi nasıl doğru kullanılır?",
+    "answer": "Teraziyi yüzeye yerleştirin ve baloncuk merkezde olduğunda yüzeyin düz olduğunu doğrulayın.",
+    "category": "Ölçüm Aletleri"
+  },
+  {
+    "faq_id": 13,
+    "question": "Ahşap yüzey nasıl zımparalanır?",
+    "answer": "Zımpara kağıdını yüzey üzerinde dairesel hareketlerle uygulayın ve pürüzsüz bir sonuç elde edin.",
+    "category": "Zımparalar"
+  },
+  {
+    "faq_id": 14,
+    "question": "Hangi boyutta dübel kullanmalıyım?",
+    "answer": "Vidanızın çapına ve duvarın sertliğine uygun dübel seçin.",
+    "category": "Dübel ve Montaj"
+  },
+  {
+    "faq_id": 15,
+    "question": "Metal yüzeyler için hangi kesme aleti kullanılmalı?",
+    "answer": "Açılı taşlama makinesi veya metal testere kullanılabilir.",
+    "category": "Kesme Aletleri"
+  },
+  {
+    "faq_id": 16,
+    "question": "Açılı taşlama makinesi nasıl güvenli kullanılır?",
+    "answer": "Koruyucu maske ve eldiven kullanın, kesme diskinin sağlam olduğundan emin olun.",
+    "category": "Kesme Aletleri"
+  },
+  {
+    "faq_id": 17,
+    "question": "Sprey boya nasıl doğru uygulanır?",
+    "answer": "Yüzeyi temizleyin, boyayı eşit püskürtün ve ince katmanlar halinde uygulayın.",
+    "category": "Boya ve Tamir Araçları"
+  },
+  {
+    "faq_id": 18,
+    "question": "Hangi tür yapıştırıcı ahşap için uygundur?",
+    "answer": "Ahşap tutkalları veya poliüretan yapıştırıcılar genellikle en uygun seçimdir.",
+    "category": "Yapıştırıcılar"
+  },
+  {
+    "faq_id": 19,
+    "question": "Kompresör nasıl çalıştırılır?",
+    "answer": "Elektrik bağlantısını yapın, basınç ayarını kontrol edin ve güvenlik vanalarını kullanarak cihazı başlatın.",
+    "category": "Kompresörler"
+  },
+  {
+    "faq_id": 20,
+    "question": "Koruyucu gözlük hangi durumlarda kullanılmalı?",
+    "answer": "Kesme, taşlama, boyama veya kimyasallarla çalışma sırasında kullanılması önerilir.",
+    "category": "Koruyucu Ekipmanlar"
+  }
+]

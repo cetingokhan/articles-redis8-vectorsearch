@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  redis-stack:
+    image: redis:8.0-M02
+    #image: redis/redis-stack-server:latest
+    container_name: redis-stack
+    ports:
+      - "6379:6379"  # Redis port
+      - "8001:8001"  # Redis Insight UI port
+    environment:
+      REDIS_ARGS: "--requirepass redis-stack"
+  redis-insight:
+      image: redis/redisinsight:latest
+      container_name: redis-insight
+      ports:
+        - "5540:5540"         
+
+  mongo:
+    image: mongo:6.0
+    container_name: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  mongo-init:
+    image: mongo:6.0
+    container_name: mongo-init
+    depends_on:
+      - mongo
+    volumes:
+      - ./init-mongo:/init-mongo
+    entrypoint: ["bash", "/init-mongo/init.sh"]
+
+volumes:
+  mongo_data:

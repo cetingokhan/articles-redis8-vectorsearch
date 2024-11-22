@@ -1,0 +1,5 @@
+openai
+langchain-openai 
+langchain-redis
+redis
+pymongo
